@@ -1,0 +1,54 @@
+
+ const userData=[
+    {
+        id:1,
+        name:"santosh",
+        email:'santosh@santosh.com'
+    },
+    {
+        id:2,
+        name:"santosh2",
+        email:'santosh2@santosh.com'
+    },
+    {
+        id:3,
+        name:"santosh3",
+        email:'santosh3@santosh.com'
+    },
+    {
+        id:4,
+        name:"santosh4",
+        email:'santosh4@santosh.com'
+    },
+    {
+        id:5,
+        name:"santosh5",
+        email:'santosh5@santosh.com'
+    },
+    {
+        id:6,
+        name:"santos6",
+        email:'santos6@santosh.com'
+    },
+    {
+        id:7,
+        name:"santosh7",
+        email:'santosh7@santosh.com'
+    },
+    {
+        id:8,
+        name:"santosh8",
+        email:'santosh8@santosh.com'
+    },
+    {
+        id:9,
+        name:"santosh9",
+        email:'santosh9@santosh.com'
+    },
+    {
+        id:10,
+        name:"santosh10",
+        email:'santosh10@santosh.com'
+    },
+];
+export default userData;
